@@ -1,0 +1,68 @@
+
+body {
+    background-color: #faf5e4;
+    }
+    
+h1 {
+    font-family: "Concert One", sans-serif;
+    background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+    linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+    linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    background-clip: text;
+    color:transparent;
+    text-align: center;
+}
+
+p {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 12px;
+ text-align: justify;
+ color: #005689;
+ margin-top: 10%;
+ margin-bottom: 10%;
+ background-color: #d5eeff;
+}
+
+ul {
+    padding-left: 0%;
+    margin-left: 0%;
+    background-color: #cbf078;
+}
+
+form{
+    background-color:  #f1b963;
+    color: #faf5e4;
+    
+}
+
+form.label {
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+    text-align: right;
+    margin-right: 10px;
+    color:white;
+   }
+
+form input[type="submit"] {
+    margin-left: 220px;
+    font-size: 1em;
+    background-color: bisque;
+    border-color: bisque;
+    color:darkorange;
+   }
+
+form input[type="reset"] {
+    margin-left: 220px;
+    font-size: 1em;
+    background-color: bisque;
+    border-color: bisque;
+    color:darkorange;
+   }
+
+.col-sm{
+    align-items: center;
+}   
+.card.card.text_center{
+    align-items: center;
+}
