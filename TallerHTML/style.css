@@ -1,10 +1,6 @@
 
 body {
-<<<<<<< HEAD
     background-color: #faf5e4;
-=======
-    background-image: url(media/confetti.jpeg);
->>>>>>> df2457d (todo)
     }
     
 h1 {
@@ -30,7 +26,6 @@ p {
 ul {
     padding-left: 0%;
     margin-left: 0%;
-<<<<<<< HEAD
     background-color: #cbf078;
 }
 
@@ -41,24 +36,11 @@ form{
 }
 
 form.label {
-=======
-    list-style-image: url(media/loveButterFly.png);
-    color: #cbf078;
-}
-
-.subform{
-    color: white;
-    
-}
-
-.subform .label {
->>>>>>> df2457d (todo)
     display: inline-block;
     width: 200px;
     vertical-align: top;
     text-align: right;
     margin-right: 10px;
-<<<<<<< HEAD
     color:white;
    }
 
@@ -76,33 +58,11 @@ form input[type="reset"] {
     background-color: bisque;
     border-color: bisque;
     color:darkorange;
-=======
-    color: #f1b963;
-   }
-
-.subform input[type="submit"] {
-    margin-left: 220px;
-    padding: 10px 25px;
-    font-size: 1em;
-    color: white;
-   }
-
-.subform input[type="reset"] {
-    margin-left: 220px;
-    padding: 10px 25px;
-    font-size: 1em;
-    color: white;
->>>>>>> df2457d (todo)
    }
 
 .col-sm{
     align-items: center;
 }   
-<<<<<<< HEAD
 .card.card.text_center{
     align-items: center;
-=======
-.card text_center{
-
->>>>>>> df2457d (todo)
 }
